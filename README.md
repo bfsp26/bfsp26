@@ -5,7 +5,7 @@
 
 It is so good to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=bfsp26.bfsp26)
 
-I am a network engineering student. I love programming, learn new technologies and put them into practice.
+I am a network engineer. I love programming, learn new technologies and put them into practice.
 
 </br>
 
