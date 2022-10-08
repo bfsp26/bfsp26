@@ -11,9 +11,9 @@ I am a network engineer. I love programming, learn new technologies and put them
 
 **Talking about Personal Stuffs:**
 
-- 👋 Hi, Currently, I am doing my internship at TCS as a Full-Stack Web Developer;
+- 👋 Hi, I am an IT trainee at TCS;
 - 👀 I'm interested in Network Automation, Software Development, Data Science and Cybersecurity;
-- 🌱 I'm currently learning DevOps;
+- 🌱 I'm currently learning Cybersecurity;
 - 📫 How to reach me: bryanf.simbana@gmail.com
 
 </br>
