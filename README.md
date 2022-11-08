@@ -1,9 +1,9 @@
-### Hi there, I'm <a>Bryan Simbaña</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a>Bryan Simbaña</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=bfsp26.bfsp26)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-fsp)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/bryan_fsp26)
 
-It is so good to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=bfsp26.bfsp26)
+It is so good to see you here!
 
 I am a network engineer. I love programming, learn new technologies and put them into practice.
 
