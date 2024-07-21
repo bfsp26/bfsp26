@@ -11,9 +11,9 @@ I am a network engineer. I love programming, learn new technologies and put them
 
 **Talking about Personal Stuffs:**
 
-- 👋 Hi, I am an IT trainee at TCS;
-- 👀 I'm interested in Network Automation, Software Development, Data Science and Cybersecurity;
-- 🌱 I'm currently learning Cybersecurity;
+- 👋 Hi, I am an Cybersecurity Analyst at TCS;
+- 👀 I'm also interested in Network Automation, Software Development, Data Science and Artificial Intelligence;
+- 🌱 Currently, I'm expanding my knowledge in Cybersecurity;
 - 📫 How to reach me: bryanf.simbana@gmail.com
 
 </br>
